@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeepSea</string>
+    <string name="main_title">DeepSea 客户机</string>
+    <string name="continue_label">Continue</string>
+    <string name="new_game_label">New Game 2</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+    
+    <string name="fileexplorer_title">文件管理</string>
+    <string name="move_button_multiselect">Move</string>
+    <string name="copy_button_multiselect">Copy</string>
+    <string name="delete_button_multiselect">Delete</string>
+    <string name="this_folder_is_empty">该文件夹为空</string>
+    
+    
+    <string name="error_file_does_not_exists">File does not exist.</string>
+    
+    
+    <string name="application_not_available">Application not available</string>
+</resources>
